@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "魔法の絵日記",
+  "base_artist": "鳴瀬しろは(CV.小原好美)、加藤うみ(CV.田中あいみ)、VISUAL ARTS / Key",
+  "createdAt": "2026-02-15T11:40:45.669705Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔法の絵日記",
+      "artist": "鳴瀬しろは(CV.小原好美), 加藤うみ(CV.田中あいみ) & VISUAL ARTS / Key",
+      "has_synced": false,
+      "path": "select/pl_01_魔法の絵日記_鳴瀬しろは(CV.小原好美),_加藤うみ(CV.田中あいみ)_&_VISUAL_ARTS___Key.txt"
+    }
+  ]
+}
